@@ -4,6 +4,9 @@
 
 ShipmentTypesServicePointsResourceRelationship module provides a relationship between shipment types and service points resources.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/service-points-rest-api](https://github.com/spryker/service-points-rest-api) instead.
+
 ## Installation
 
 ```
